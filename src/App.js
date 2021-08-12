@@ -23,7 +23,7 @@ const App = () =>{
   return(
     <div className= 'main-container'>
       <div className= 'heading-container'>
-        <h1 className= 'main-heading'>Let's get today's weather</h1>
+        <h1 className= 'main-heading'>Today's Forecast</h1>
         <img className= 'header-image' src= {headerImage.src} alt={headerImage.alt} width= {headerImage.width} />
       </div>
 
