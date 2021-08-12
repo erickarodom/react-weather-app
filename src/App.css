@@ -29,7 +29,6 @@ body,
   padding-bottom: 2.5rem;
 }
 .main-heading {
-  padding-bottom: 0.5rem;
   max-width: 35rem;
   font-family: "Open Sans", sans-serif;
   font-size: 3.4em;
@@ -48,7 +47,7 @@ body,
 .search {
   text-align: center;
   outline: none;
-  padding: 20px 8%;
+  padding: 20px 7%;
   border-radius: 20px;
   border: none;
   margin-bottom: 2rem;
@@ -121,6 +120,7 @@ p {
     padding-bottom: 1rem;
   }
   .main-heading {
+    margin-bottom: -2px;
     max-width: 15rem;
     font-size: 3em;
   }
@@ -129,7 +129,7 @@ p {
   }
 
   .search {
-    padding: 20px 12%;
+    padding: 20px 8%;
     margin-bottom: 8%;
   }
 
