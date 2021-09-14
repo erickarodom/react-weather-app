@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/daa70843-0dcc-4f1d-a5b7-6083827103bf/deploy-status)](https://app.netlify.com/sites/blissful-payne-0194b0/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/daa70843-0dcc-4f1d-a5b7-6083827103bf/deploy-status)](https://app.netlify.com/sites/erickareactweatherapp/deploys)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
